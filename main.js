@@ -124,7 +124,7 @@ global.reloadHandler = function (restatConn) {
     conn.ev.off('creds.update', conn.credsUpdate)
   }
 
-  conn.welcome = 'Hello @user ✨\nWelcome to @subject\nJangan lupa patuhi deskripsi\n✨------------------------------------✨\n@desc'
+  conn.welcome = 'Hello Member Baruu ✨\nWelcome to @subject\nSemoga Betah y\nJangan lupa patuhi deskripsi\n✨--------------------------------✨\n@desc'
   conn.bye = 'Dadah @user ✨\n\n\n\n\nJangan Lupa Subscribe Yt ku : https://youtube.com/channel/UC0kxCB-Uci5et_Tz9PcrB6w'
   conn.spromote = 'Alhamdulillah ✨\nSekarang @user Naik Pangkat Jadi Atemind🎭'
   conn.sdemote = 'Astagfirullah 🗿\nAda Yang Turun Pangkat Nih🗿\n\nWkwkw Sekarang @user Turun Pangkat Jadi Member\nMakanya Rules tu Di Patuhi🗿'
